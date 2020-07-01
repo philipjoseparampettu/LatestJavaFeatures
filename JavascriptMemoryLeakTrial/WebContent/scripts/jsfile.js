@@ -4,7 +4,6 @@
 3. https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/
 4. https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
 5. https://github.com/WICG/virtual-scroller#readme
-
 */
 var x = [];
 
